@@ -11,6 +11,12 @@
       "day": "Monday",
       "reminder": false,
       "id": 2
+    },
+    {
+      "text": "Birthday",
+      "day": "20.10.2021 10:55 AM",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
