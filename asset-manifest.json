@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tast-tracker-reacjs/static/css/main.4e758486.chunk.css",
-    "main.js": "/tast-tracker-reacjs/static/js/main.e6e85e0e.chunk.js",
-    "main.js.map": "/tast-tracker-reacjs/static/js/main.e6e85e0e.chunk.js.map",
+    "main.js": "/tast-tracker-reacjs/static/js/main.acf3f693.chunk.js",
+    "main.js.map": "/tast-tracker-reacjs/static/js/main.acf3f693.chunk.js.map",
     "runtime-main.js": "/tast-tracker-reacjs/static/js/runtime-main.96a2c2aa.js",
     "runtime-main.js.map": "/tast-tracker-reacjs/static/js/runtime-main.96a2c2aa.js.map",
     "static/js/2.0c6fceb8.chunk.js": "/tast-tracker-reacjs/static/js/2.0c6fceb8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.96a2c2aa.js",
     "static/js/2.0c6fceb8.chunk.js",
     "static/css/main.4e758486.chunk.css",
-    "static/js/main.e6e85e0e.chunk.js"
+    "static/js/main.acf3f693.chunk.js"
   ]
 }
