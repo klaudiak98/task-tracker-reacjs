@@ -7,16 +7,10 @@
       "reminder": true
     },
     {
-      "text": "Second task",
-      "day": "Monday",
+      "text": "Test",
+      "day": "2.01.2024 12:45",
       "reminder": false,
       "id": 2
-    },
-    {
-      "text": "Birthday",
-      "day": "20.10.2021 10:55 AM",
-      "reminder": true,
-      "id": 3
     }
   ]
 }
